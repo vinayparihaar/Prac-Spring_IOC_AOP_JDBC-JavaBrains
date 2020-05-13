@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_241"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring_Jars"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Derby_Jars"/>
+	<classpathentry kind="lib" path="E:/Softwares/Java_Softwares/Jar&apos;s/Spring_Jars/commons-dbcp2-2.7.0-bin/commons-dbcp2-2.7.0/commons-dbcp2-2.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares/Java_Softwares/Jar&apos;s/Spring_Jars/commons-pool2-2.8.0-bin/commons-pool2-2.8.0/commons-pool2-2.8.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
